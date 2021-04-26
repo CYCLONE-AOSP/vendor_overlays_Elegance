@@ -269,3 +269,15 @@ PRODUCT_PACKAGES += \
     ClockFontProdeltCoOverlay \
     ClockFontRubikGlitchOverlay \
     ClockFontTourneyMediumOverlay
+
+# Statusbar Icons
+PRODUCT_PACKAGES += \
+    StrokeSignalOverlay \
+    SneakySignalOverlay \
+    XperiaSignalOverlay
+
+# Wi-Fi Icons
+PRODUCT_PACKAGES += \
+    StrokeWiFiOverlay \
+    SneakyWiFiOverlay \
+    XperiaWiFiOverlay
